@@ -14,7 +14,7 @@
 
 ### Prerequisites
 
-Before run the project firts you need to install <a href="https://www.libvips.org/" target="_blank">libvips</a> libarry.
+Before run the project firts you need to install <a href="https://www.libvips.org/" target="_blank">libvips</a> library.
 
 ### Installing package bimg
 
